@@ -1,16 +1,21 @@
 ## Oiii! Eu sou o Guilherme Moreira
+<br>
+Um apaixonado por programação e tecnologia. Sou um desenvolvedor entusiasmado com uma paixão pela criação de soluções inovadoras. Meu foco principal é a programação web, mas também estou aberto para explorar novas tecnologias e desafios.
+
 <div style="display: flex;">
+  <br>
+  <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeMoreira-DEV&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img style="margin-left: auto;" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeMoreira-DEV&layout=compact&langs_count=16&theme=highcontrast"/>
 </div>
-
-<div style="display: inline_block"><br>
+<hr>
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- 
-  
 </div>
+
+
   
   ##
  
