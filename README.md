@@ -1,4 +1,4 @@
-## Oiii! Eu sou o Guilherme Moreira
+## Olá! Eu sou o Guilherme Moreira
 <br>
 Um apaixonado por programação e tecnologia. Sou um desenvolvedor entusiasmado com uma paixão pela criação de soluções inovadoras. Meu foco principal é a programação web, mas também estou aberto para explorar novas tecnologias e desafios.
 
